@@ -1,2 +1,2 @@
-# exploringPython
-Python Workshop for Lingustic Students 
+# Exploring Python
+
