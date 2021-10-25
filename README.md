@@ -1,6 +1,6 @@
 # Exploring Python
-Resources regarding the workshop on Python at Thunchath Ezhuthachan Malayalam University, Kerala, India
-[http://malayalamuniversity.edu.in/en/]
+Resources regarding the workshop on Python at [Thunchath Ezhuthachan Malayalam University](http://malayalamuniversity.edu.in/en/), Kerala, India
+
 
 # Python Online Resources 
 1. https://pythonprogramming.net/
